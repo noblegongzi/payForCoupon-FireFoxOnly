@@ -129,7 +129,7 @@ if(request.getParameter("WIDout_trade_no")!=null){
         float: left;
         margin-left: 20px;
         color: #666;
-        font-size: 20px;
+        font-size: 50px;
         margin-top: 8px;
     }
     .content dd{
@@ -140,7 +140,7 @@ if(request.getParameter("WIDout_trade_no")!=null){
         width: 85%;
         height: 50px;
         border: 0;
-        font-size: 18px;
+        font-size: 40px;
         -webkit-border-radius: 0;
         -webkit-appearance: none;
     }
