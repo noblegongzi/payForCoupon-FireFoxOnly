@@ -124,7 +124,7 @@ if(request.getParameter("WIDout_trade_no")!=null){
         margin-top:5px;
     }
     .content dt{
-        width:100px;
+        width:200px;
         display:inline-block;
         float: left;
         margin-left: 20px;
@@ -138,7 +138,7 @@ if(request.getParameter("WIDout_trade_no")!=null){
     }
     .content dd input {
         width: 85%;
-        height: 50px;
+        height: 100px;
         border: 0;
         font-size: 40px;
         -webkit-border-radius: 0;
